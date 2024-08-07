@@ -1,0 +1,1 @@
+define({'SEO':{d:'SEO stands for Search Engine Optimization and is the process of improving a website\u0027s visibility in search engines like Google and Bing.',l:''}});
