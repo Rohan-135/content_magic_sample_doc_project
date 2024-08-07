@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTargetOutput
+  GeneratedTarget="/Output/Rohan_Modak/PDF/PDF.pdf"
+  BuildVersion="20.0.8886.22535">
+  <Files>
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Images/Hero-Image.png" />
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Images/Minus.png" />
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Images/Logo.svg" />
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Images/Logo.png" />
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Images/cm-logo-print.png" />
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Branding/Branding.css" />
+    <Url
+      Source="Output/Rohan_Modak/PDF/PDF.pdf" />
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Images/content-process-cycle.png" />
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Images/Backmatter-Heading-Background.png" />
+    <Url
+      Source="Output/Rohan_Modak/Temporary/PDF/PDF_59DF1500/Resources/Images/Plus.png" />
+  </Files>
+  <Skins />
+</CatapultTargetOutput>

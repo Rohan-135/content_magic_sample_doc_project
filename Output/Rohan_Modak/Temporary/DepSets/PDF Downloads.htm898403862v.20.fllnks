@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultFileLinkSet
+  FileTitle="pdfdownloads"
+  FileSearchable="true"
+  OnlyLocalStylesheets="false"
+  FileTimeEstimate="0"
+  FilePriority="0">
+  <Links>
+    <Link
+      Url="../../Users/Rohan.Modak/Downloads/Content Magic User Guide.pdf" />
+    <Link
+      Url="../../Users/Rohan.Modak/Downloads/Content Magic Release Notes.pdf" />
+    <Link
+      Url="../../Users/Rohan.Modak/Downloads/Content Magic Prerequisites Guide.pdf" />
+  </Links>
+  <LongLinks>
+    <Link
+      Url="../../Users/Rohan.Modak/Downloads/Content Magic User Guide.pdf" />
+    <Link
+      Url="../../Users/Rohan.Modak/Downloads/Content Magic Release Notes.pdf" />
+    <Link
+      Url="../../Users/Rohan.Modak/Downloads/Content Magic Prerequisites Guide.pdf" />
+  </LongLinks>
+  <Anchors />
+  <Keywords />
+  <Concepts />
+  <ConceptControlNames />
+  <IndexControlNames />
+  <Variables />
+  <FileConditions />
+  <FileTags />
+  <AllConditions />
+  <Stylesheets />
+</CatapultFileLinkSet>

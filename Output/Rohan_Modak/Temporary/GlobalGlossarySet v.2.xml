@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlobalGlossaryCache
+  SavedSource="file:///C:/Madcap Project/ContentMagic Documentation/Output/Rohan_Modak/Temporary/GlobalGlossarySet v.2.xml">
+  <Map>
+    <GlossaryCacheEntry
+      Term="SEO"
+      glossTerm="Glossary.Term4"
+      SourceFile="/Project/Glossaries/Glossary.flglo">
+      <Definition
+        Link="">SEO stands for Search Engine Optimization and is the process of improving a website's visibility in search engines like Google and Bing.</Definition>
+    </GlossaryCacheEntry>
+  </Map>
+  <SourceUrls />
+</CatapultGlobalGlossaryCache>
