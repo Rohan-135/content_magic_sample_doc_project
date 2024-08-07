@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultVariableSet>
+  <Variable
+    Comment=""
+    Name="Product Name"
+    EvaluatedDefinition="ContentMagic">ContentMagic</Variable>
+  <Variable
+    Name="Copyright Year"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2024-07-01T11:55:23.5411143+05:30"
+    EvaluatedDefinition="yyyy MMMM">yyyy MMMM</Variable>
+  <Variable
+    Name="Date"
+    Comment=""
+    Type="DateTime"
+    LastUpdated="2024-07-01T21:10:26.2524687+05:30"
+    EvaluatedDefinition="dd MMMM yyyy">dd MMMM yyyy</Variable>
+</CatapultVariableSet>

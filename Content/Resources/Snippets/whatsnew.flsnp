@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Following are the new features available in ContentMagic:</p>
+        <ul>
+            <li>
+                <p>Rich Text Editor</p>
+                <ul>
+                    <li>
+                        <p>Use the HTML and Javascript based content editor to work on content and multimedia.</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <p>Project Import Wizard</p>
+                <ul>
+                    <li>
+                        <p>Import other <MadCap:variable name="ContentMagic.Product Name"></MadCap:variable>projects and use them as is or use specific parts.</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <p>Automation</p>
+                <ul>
+                    <li>
+                        <p>Automate <MadCap:variable name="ContentMagic.Product Name"></MadCap:variable>build and delivery.</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+        <ul>
+            <li>
+                <p>Deprecated Features</p>
+                <ul>
+                    <li>
+                        <p>
+                            <MadCap:variable name="ContentMagic.Product Name" />no longer supports CHM output.</p>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+    </body>
+</html>

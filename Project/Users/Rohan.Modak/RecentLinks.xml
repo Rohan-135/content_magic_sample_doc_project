@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RecentLinks>
+    <Dialog Name="B3.XmlMdiEditorKit.ImageGeneralDialogPage">
+        <Link Value="C:\Madcap Project\ContentMagic Documentation\Content\Resources\Images\cm-logo-print.png" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.MultimediaGeneralDialogPage" />
+    <Dialog Name="B3.XmlTextKit.InsertCrossReferenceDialog">
+        <Link Value="C:\Madcap Project\ContentMagic Documentation\Content\Prerequisites Guide\Prerequisites.htm" />
+    </Dialog>
+    <Dialog Name="B3.XmlTextKit.InsertHyperlinkDialog">
+        <Link Value="C:\Madcap Project\ContentMagic Documentation\Content\PDF Downloads\Content Magic Prerequisites Guide.pdf" />
+    </Dialog>
+    <Dialog Name="B3.CatapultProjectUserInterfaceKit.InsertSnippetDialog">
+        <Link Value="C:\Madcap Project\ContentMagic Documentation\Content\Resources\Snippets\automation engine.flsnp" />
+    </Dialog>
+</RecentLinks>

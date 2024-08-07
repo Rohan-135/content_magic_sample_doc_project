@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <body>
+        <p>Starting a new project in <MadCap:variable name="ContentMagic.Product Name"></MadCap:variable> is quick and easy. Here are the steps you need to follow:</p>
+        <ol>
+            <li>
+                <p>Log in to your <MadCap:variable name="ContentMagic.Product Name"></MadCap:variable> account. If you don't have an account yet, you can sign up for one on the <MadCap:variable name="ContentMagic.Product Name"></MadCap:variable> website.</p>
+            </li>
+            <li>
+                <p>Once you're logged in, click on the <b>New Project</b> button on the dashboard.</p>
+            </li>
+            <li>
+                <p>Enter a name for your project and choose the type of content you want to create (e.g., blog post, social media post, video, etc.).</p>
+            </li>
+        </ol>
+    </body>
+</html>

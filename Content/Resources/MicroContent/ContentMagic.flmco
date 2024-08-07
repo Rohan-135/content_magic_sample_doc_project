@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MicroContentSet Comment="Default micro content set." xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" MadCap:isSortedByPhrase="True">
+    <MicroContent id="contentmagic">
+        <MicroContentPhrase>ContentMagic</MicroContentPhrase>
+        <MicroContentResponse href="../../User Guide/introduction.htm#microcontent1" />
+    </MicroContent>
+</MicroContentSet>

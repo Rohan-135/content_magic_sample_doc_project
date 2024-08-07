@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<html xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+    <head>
+    </head>
+    <body>
+        <MadCap:breadcrumbsProxy />
+        <MadCap:bodyProxy />
+        <MadCap:topicToolbarProxy style="mc-topic-toolbar-items: PreviousTopic NextTopic Print;" />
+        <p>&#160;</p>
+        <table style="width: 100%;">
+            <col />
+            <tbody>
+                <tr>
+                    <td style="background-color: #b0c4de;">Copyright © <MadCap:variable name="ContentMagic.Copyright Year" /> <MadCap:variable name="ContentMagic.Product Name" /></td>
+                </tr>
+            </tbody>
+        </table>
+    </body>
+</html>

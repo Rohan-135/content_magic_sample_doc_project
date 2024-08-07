@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultSkin
+  Version="6"
+  SkinType="Component"
+  Comment="HTML5 Toolbar skin"
+  ComponentType="TopicToolbar"
+  EnableResponsiveOutput="True">
+  <Stylesheet>
+    <Resources>
+      <Resource
+        Name="print-icon.png">H4sIAAAAAAAEAB1UW4gWVBD+xIdV01LRFY3y0sgKibnVgyVhxv/nDpnYrhP4ohX5IDkqXogiKCSDNn2ZLMXoog8iI0kPNuAluqARUXlLK0YM3EorgzYLCaHp//fAnDmch49vvu8759WlSxaNGTVlFIAx3NPobfVZ7RoxvLUfndazEhiOpYuXNdFeAjhQIIAE5KACAyxgBxcUUIE6tGCACcxhhQBCEI4oJJCCdGS1kFCCclS1ISEEJxQRiITIiYoYxELsxEUKUiF10iIDmZA5WVGAQiicoihBKZROWS12VELlVNWmCWE4o5jAJEzOVMxgFmZnLlawCquzFhvYhM3ZigMcwuEcxQlO4XTOak3MJVzOVe3RIQpXlBKURMmVShnKouzKpQpVUXXVUoOaqLlaaUBDNFyjNKEpmq5ZLRW1RMu1qi0nxOCGMoKRGLlRGcNYjN24TGEqpm5aZjATMzcrC1iIhVuUJSzF0i2r5YyVWLlVtS2CBDxQQQiSIA+qYARLsAdXKEIl1EMrDGES5mEVgQiJ8IiKRKREemS13I6SKI+qtu2QhCcqCUmS5EmVjGRJ9uRKRaqkemqlIU3SPK0ykCEZnlGZyJRMz6xWgrIky7OqHSVIwWsoTEVS5DVkfLEUew2ZVCqlXkOClkmZ19DwFVLhNUS0Uiq9hkCrpMpbp9/eWjun9QJGru9ZvhHonNmuYdxLf7YuOzbxo82OKx3DOjpnrt1WdwHDRnJj4bJ52z9a9sfEl6eN/n3u7IG5s88+eWTxK7+entHfuePo1ElTr09/bvrW8WeapwZfW/V3Y++psSMaYwdu/rm7e8rr88c9vKPn3uamxo2uvuaFne/M+u+XwXf7z4y7b/stW7+5vqax9Mu+D17cd+ml56fes6tm7u08sK6xZ8zRGQvGP7Lw0vy/9n2x4/yE2+7snz84qbnt2WN9a44PXJjT1f/e9/cf+/fB9yd/OtC3YMUDu2esO/H4rctvHD5w6cSKz3hC1+1vfL3zoKx78+6LX/V+svnq8TUbf7jx2LXTn185f+7IxImHL04+Obm7eahDVw+OPrP+pu0Dw5+6dvbq4UUrjn334eVD3/60/8eVT5+chw0jerfdsap79+Zd/1xe/fbxSS9gz5ZzG/Z/vP+Z9v/BzSWNgw89seV/16cRSXYEAAA=</Resource>
+    </Resources>
+    <Styles>
+      <Style
+        Name="ToolbarItem">
+        <Classes>
+          <StyleClass
+            Name="Print">
+            <Properties></Properties>
+          </StyleClass>
+        </Classes>
+      </Style>
+    </Styles>
+  </Stylesheet>
+  <Strings />
+</CatapultSkin>

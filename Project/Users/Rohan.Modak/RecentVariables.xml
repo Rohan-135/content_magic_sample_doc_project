@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ObjectList>
+    <Object Value="General.VersionNumber" />
+    <Object Value="ContentMagic.Date" />
+    <Object Value="Heading.Level1" />
+    <Object Value="ContentMagic.Copyright Year" />
+    <Object Value="ContentMagic.Product Name" />
+</ObjectList>
