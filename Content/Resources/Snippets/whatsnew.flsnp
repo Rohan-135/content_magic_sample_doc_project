@@ -38,7 +38,7 @@
                 <ul>
                     <li>
                         <p>
-                            <MadCap:variable name="ContentMagic.Product Name" />no longer supports CHM output.</p>
+                            <MadCap:variable name="ContentMagic.Product Name" /> no longer supports CHM output.</p>
                     </li>
                 </ul>
             </li>
