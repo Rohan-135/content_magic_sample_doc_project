@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="Home"
+    Link="/Content/Home.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="Release Notes">
+    <TocEntry
+      Title="What's New"
+      Link="/Content/Release Notes/whatsnew.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+      StartSection="false" />
+  </TocEntry>
+  <TocEntry
+    Title="User Guide">
+    <TocEntry
+      Title="Introduction"
+      Link="/Content/User Guide/introduction.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Content Process"
+        Link="/Content/User Guide/contentprocess.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Creating Projects"
+      Link="/Content/User Guide/creatingprojects.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+      <TocEntry
+        Title="Project Properties"
+        Link="/Content/User Guide/projectproperties.htm"
+        MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    </TocEntry>
+    <TocEntry
+      Title="Importing Content"
+      Link="/Content/User Guide/importingcontent.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Automating Project Build and Delivery"
+      Link="/Content/User Guide/automatingprojectbuildanddelivery.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="Prerequisites Guide">
+    <TocEntry
+      Title="Prerequisites"
+      Link="/Content/Prerequisites Guide/Prerequisites.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="PDF Downloads"
+    Link="/Content/PDF Downloads/PDF Downloads.htm"></TocEntry>
+</CatapultToc>

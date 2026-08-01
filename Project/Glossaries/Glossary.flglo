@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultGlossary
+  conditions="">
+  <GlossaryEntry
+    glossTerm="Glossary.Term4"
+    Stem=""
+    IgnoreCase="false">
+    <Terms>
+      <Term>SEO</Term>
+    </Terms>
+    <Definition
+      Link="">SEO stands for Search Engine Optimization and is the process of improving a website's visibility in search engines like Google and Bing.</Definition>
+  </GlossaryEntry>
+</CatapultGlossary>
